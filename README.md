@@ -1,2 +1,3 @@
-# NGS_HandsOnWorkshop
-Hands-on workshop on NGS data analysis @ NARO
+
+# Presentation, scripts and data
+# for NGS Hands-on workshop @ NARO(Tsukuba)
