@@ -1,0 +1,6 @@
+Day	Day_rep1	rice_D_rep1_r1.trinity.fastq.gz	rice_D_rep1_r2.trinity.fastq.gz
+Day	Day_rep2	rice_D_rep2_r1.trinity.fastq.gz	rice_D_rep2_r2.trinity.fastq.gz
+Day	Day_rep3	rice_D_rep3_r1.trinity.fastq.gz	rice_D_rep3_r2.trinity.fastq.gz
+Night	Night_rep1	rice_N_rep1_r1.trinity.fastq.gz	rice_N_rep1_r2.trinity.fastq.gz
+Night	Night_rep2	rice_N_rep2_r1.trinity.fastq.gz	rice_N_rep2_r2.trinity.fastq.gz
+Night	Night_rep3	rice_N_rep3_r1.trinity.fastq.gz	rice_N_rep3_r2.trinity.fastq.gz
