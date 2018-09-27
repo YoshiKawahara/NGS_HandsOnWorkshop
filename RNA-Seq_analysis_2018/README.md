@@ -4,12 +4,12 @@
 - プレゼン資料（NGS_Workshop_RNA-Seq_2018.pdf）をアップロードしました。（2018/09/26）
 - Linux上での演習用スクリプト＆データをアップロードしました。（2018/09/27）
 
-    ＊ゲノム配列のFASTAファイル（RNA-Seq/data/genome.fa.gz）はgzip圧縮されているため、スクリプトの実行前に以下のように解凍してください。 
+     ＊ゲノム配列のFASTAファイル（RNA-Seq/data/genome.fa.gz）はgzip圧縮されているため、スクリプトの実行前に以下のように解凍してください。 
     
     ``` $ gunzip genome.fa.gz ```
     
 - R/Bioconductorのballgownやtidyverseを使って、RNA-Seq解析結果の可視化のためのスクリプトをアップロードしました（2018/09/27）
 
-　　＊演習ではWindowsマシン上のRStudioでおこなった解析ですが、ballgownの結果データはファイルサイズが大き過ぎるため、スクリプトのみ提供します。
+     ＊演習ではWindowsマシン上のRStudioでおこなった解析ですが、ballgownの結果データはファイルサイズが大き過ぎるため、スクリプトのみ提供します。
 
 - 「普段使っているPCにLinuxをインストールして  NGSデータ解析を行うには?」（農研機構 沼寿隆さん）についてのスライド資料（vpc.pdf）もアップロードしました。
